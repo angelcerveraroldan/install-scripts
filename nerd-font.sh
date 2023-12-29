@@ -25,7 +25,7 @@ declare -a fonts=(
     # UbuntuMono
 )
 
-version='3.0.1'
+version='3.1.1'
 fonts_dir="${HOME}/.local/share/fonts"
 
 if [[ ! -d "$fonts_dir" ]]; then
